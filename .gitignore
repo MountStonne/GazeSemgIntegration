@@ -1,0 +1,13 @@
+data.json
+metadata summary.csv
+s010/.ipynb_checkpoints
+s010/data
+s010/PyTrack_Sample_Data
+s010/traintestdata
+S010/.DS_Store
+s011/.ipynb_checkpoints
+s011/data
+s011/traintestdata
+s011/.DS_Store
+
+.DS_Store
