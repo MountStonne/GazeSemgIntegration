@@ -1,5 +1,6 @@
 data.json
 metadata summary.csv
+.ipynb_checkpoints
 s010/.ipynb_checkpoints
 s010/data
 s010/PyTrack_Sample_Data
