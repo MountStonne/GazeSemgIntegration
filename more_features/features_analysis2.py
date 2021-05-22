@@ -153,6 +153,7 @@ name_features.append(name)
 # In[20]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -252,6 +253,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -349,6 +351,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -446,6 +449,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -543,6 +547,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -640,6 +645,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -737,6 +743,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -834,6 +841,7 @@ name_features.append(name)
 # In[68]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -931,6 +939,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -1028,6 +1037,7 @@ name_features.append(name)
 # In[ ]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
@@ -1125,6 +1135,7 @@ name_features.append(name)
 # In[11]:
 
 
+print(acc_features,name_features)
 trainx.to_csv('featured_data/'+name+'_trainx.csv')
 trainy.to_csv('featured_data/'+name+'_trainy.csv')
 testx.to_csv('featured_data/'+name+'_testx.csv')
